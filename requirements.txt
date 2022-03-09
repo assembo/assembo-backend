@@ -1,0 +1,11 @@
+Django>=2.2
+django-webpack-loader==0.6.0
+pytz==2018.7
+djangorestframework==3.12.4
+textrank4zh==0.3
+pymongo[srv]
+django-cors-headers
+
+djangorestframework 
+django-rest-auth 
+django-allauth
